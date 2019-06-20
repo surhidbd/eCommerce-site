@@ -1,0 +1,43 @@
+.area{
+	background-color:#21262A;
+	margin: 50px auto;
+	width:500px;
+	height:400px;
+	color:white;
+	font-weight:bold;
+	text-align:center;
+}
+.area h1{
+	text-align:center;
+	margin:30px;
+	padding-top:30px;
+	
+}
+.form{
+	margin:20px  120px;;
+	padding:20px;
+	
+}
+
+
+.form lebel{
+	
+}
+.form input{
+	height:20px;
+	width:200px;
+	margin-bottom:10px;
+}
+.form button {
+	margin: 20px 50px;
+	height:30px;
+	width:100px;
+	font-weight:bold;
+	
+}
+
+.underbut a{
+	font-size:20px;
+	text-decoration:none;
+	color: #02FFDE;
+}

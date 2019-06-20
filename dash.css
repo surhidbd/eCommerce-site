@@ -1,0 +1,117 @@
+
+.middle{
+	background-color: #e8eef4;
+}
+
+.leftbar{
+	 background-color: #e8eef4;
+    border-right: 2px solid gray;
+    float: left;
+    height: 500px;
+    margin: 52px 52px 52px 191px;
+    width: 300px;
+	display-inline:block;
+}
+.side {
+		 border-bottom: 1px solid #353535;
+    height: 50px;
+    margin: 2px 9px;
+}
+
+.side h2 {
+	color: black;
+    float: left;
+    font-size: 17px;
+    padding: 14px 15px;
+	
+}
+.image{
+	float: right;
+    height: 16px;
+    margin: 14px 0;
+    width: 12px;
+}
+.image img{
+	width:100%;
+}
+.side b{
+	float:right;
+}
+.rightbar{
+	background-color: #e8eef4;
+	
+	width:600px;
+	margin:48px 68px;
+}
+.user{
+	height:80px;
+	border-bottom:2px solid gray;
+	margin-bottom:10px;
+}
+.user h1{
+	padding-top: 15px;
+    text-align: center;
+}
+.box{
+	 margin: 35px 100px;
+    text-align: center;
+}
+.box h3{
+	font-size:25px;
+	margin-top:10px;
+}
+.box h4{
+	  color: #2F2F30;
+    font-size: 20px;
+    margin: 10px;
+}
+.book{
+
+}
+.book button{
+	background-color: #009877;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    height: 59px;
+    margin: 0 135px;
+    width: 326px;
+}
+.contain{
+	background-color:#ccd0d3;
+	height:100px;
+	padding-left:10px;
+	overflow:hidden;
+}
+
+.contain h4{
+	margin-top:10px;
+	font-size:17px;
+	margin-bottom:10px;
+	
+}
+
+.imageadd{
+	float:right;
+	width:200px;
+	height:100px;
+	overflow:hidden;
+}
+.imageadd img{
+	width:100%;
+}
+.actionbutton {
+		margin-bottom:40px;
+		
+} 
+.actionbutton a {
+	float:right;
+	padding:3px 10px;
+    background-color: #21262A;
+    color: white;
+    margin-left: 5px;
+    text-decoration: none;
+	
+	
+   
+}

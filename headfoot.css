@@ -1,0 +1,104 @@
+header, section, footer, aside, nav, main, article, figure {
+    display: block; 
+}
+
+*{margin:0;padding:0;outline:0}
+body{font-family:arial; font-size:14 px; line-height:18 px;color:black;background:url(Image/bg.png)repeat fixed 0 0; }
+
+
+.template{width: 1350px; margin:0 auto;}
+.clear{overflow:hidden;}
+.contentarea{
+	width:100%;
+}
+.header{
+	background-color:#213140;
+	height:60px;
+}
+.logo{float:left;padding-left:15px;}
+.logo img {
+  padding: 0;
+    width: 180px;
+}
+.search{
+	float: left;
+    padding-left: 150px;
+    padding-top: 14px;
+}
+.search input[type=text] {
+    border: medium none;
+    font-size: 20px;
+    height: 30px;
+    width: 300px;
+	
+}
+.search button{
+	   background-color: #02FFDE;
+    float: right;
+    font-size: 13px;
+    font-weight: bold;
+    height: 30px;
+    width: 43px;
+
+}
+
+.Nav{
+  padding-top: 18px;
+    float: right;
+    padding-right: 30px;
+	
+}
+.Nav li{display:block;float: left;}
+.Nav li a{ 
+color: white;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 8px;
+    text-decoration: none;
+	}
+.header .Nav li a:hover{color:#02ffde;}
+#active{border-bottom:3px solid #02ffde;;}
+
+
+
+
+
+.footertop{
+	background-color:#222222;
+	height:80px;
+}
+.footnav{}
+.footnav li{
+ display: block;
+    float: left;
+    margin-left: 57px;
+    padding: 33px 41px 0 0;
+}
+
+.footertop li a{
+	color: #999999;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0;
+    text-decoration: none;
+	}
+.social{
+	float:right;
+	padding-left:150px;
+}
+.social img{
+
+    margin-right: 10px;
+    padding: 9px;
+    width: 60px;
+}
+
+.footbottom{
+	background-color:#111111;
+	height:50px;
+	color:#999999;
+	text-align:center;
+	padding-top:20px;
+	font-size : 16px;
+	font-weight:bold;
+}

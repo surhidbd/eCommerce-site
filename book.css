@@ -1,0 +1,28 @@
+.box{
+	background-color:#213140;
+	margin:20px auto;
+	width:300px;
+	color: white;
+}
+.box h1{
+	padding-top:10px;
+	text-align:center;
+}
+.add{
+	margin:10px 30px;
+}
+.add input{
+	margin-bottom:10px;
+	width:240px;
+}
+.add select{
+	margin-bottom:10px;
+	width:240px;
+}
+.add button{
+	height:30px;
+	width:100px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-left:80px;
+}
